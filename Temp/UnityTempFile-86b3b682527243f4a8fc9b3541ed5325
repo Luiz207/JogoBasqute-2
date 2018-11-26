@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - chao
+  - mao
+  - bola
+  - bolaclone
+  - ESQUERDA_POS
+  - DIREITA_POS
+  - CIMA_POS
+  - BAIXO
+  - BAIXO_POS
+  - dots
+  - bolinhas
+  - Aro
+  - Tabela
+  - sky
+  - RimTxt
+  - contador
+  - togg2
+  - togg1
+  - d3
+  - numBolas
+  - Sky
+  - d2
+  - d1
+  - togg3
+  - desf
+  - fundoC
+  - teladesafio
+  - iniciarbtn
+  - telaWL
+  - txtWL
+  - "btnAvan\xE7ar"
+  - btnAvancar
+  - btnVoltar
+  - btnNovamente
+  - togg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
